@@ -25,6 +25,12 @@ img {
   background-color: #d7385e;
 
 }
+
+#profil {
+    font-family: Impact;
+    color: #00a1ab;
+    background-color: #00263b;
+}
 #heading{
   border-top: dotted ;
 }
