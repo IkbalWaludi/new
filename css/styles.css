@@ -1,0 +1,30 @@
+body {
+  background-color: #e7d39f;
+  color: #522d5b;
+}
+
+hr{
+  border-color: #522d5b;
+  border-style: dotted none none;
+  border-width: medium;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.class1{
+    font-family: "Comic Sans MS";
+    color: #c3edea;
+    background-color: #fb7b6b;
+}
+
+.class2{
+  font-family: sans-serif;
+  color: white;
+  background-color: #d7385e;
+
+}
+#heading{
+  border-top: dotted ;
+}
