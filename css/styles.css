@@ -30,6 +30,7 @@ img {
     font-family: Impact;
     color: #00a1ab;
     background-color: #00263b;
+    border-radius: 10%;
 }
 #heading{
   border-top: dotted ;
